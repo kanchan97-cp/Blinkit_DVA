@@ -39,8 +39,11 @@ Creating calculated fields
 # Dashboard Overview (Looker Studio)
 
 Below are example sections of the dashboard.
-<img width="1275" height="950" alt="Screenshot 2026-02-26 at 2 57 11 AM" src="https://github.com/user-attachments/assets/853fece7-9ac8-401d-a852-05ab1c37a4f8" />
-<img width="1276" height="952" alt="Screenshot 2026-02-26 at 2 59 23 AM" src="https://github.com/user-attachments/assets/af46bff2-8431-4927-a9af-fe070d9ed960" />
+<img width="1512" height="982" alt="Brand Performance and Profitability " src="https://github.com/user-attachments/assets/18fb6202-d546-45fb-be70-784bce968f0d" />
+<img width="1512" height="982" alt="Voice of the Customer Insights" src="https://github.com/user-attachments/assets/d00544d7-8b1e-447d-add1-3b3b0cd0c739" />
+<img width="1512" height="982" alt="Use Growth and Audience Segmentation" src="https://github.com/user-attachments/assets/37679a2c-d10f-4acf-af2e-46b9335ee99c" />
+<img width="1512" height="982" alt="Growth Mrketing and Acquistion Analytics" src="https://github.com/user-attachments/assets/b011c6af-5449-4d27-808e-0afb23894b4b" />
+<img width="1512" height="982" alt="Delivery and Fulfillment LogisticsLast-Mile " src="https://github.com/user-attachments/assets/e3bc759f-17a8-4514-aeae-c75cf5c02975" />
 
 # Live Dashboard
 
