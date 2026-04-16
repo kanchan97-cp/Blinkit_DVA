@@ -40,7 +40,7 @@ Creating calculated fields
 
 Below are example sections of the dashboard.
 
-<img width="1377" height="768" alt="Gemini_Generated_Image_m2v46m2v46m2v46m" src="https://github.com/user-attachments/assets/498f00da-baaf-419c-abd1-5b03a0394247" />
+<img width="1377" height="768" alt="Gemini_Generated_Image_wbjvuvwbjvuvwbjv" src="https://github.com/user-attachments/assets/d58c788e-7c0f-4a74-88e4-a57155b3e05d" />
 
 <img width="1512" height="982" alt="Brand Performance and Profitability " src="https://github.com/user-attachments/assets/18fb6202-d546-45fb-be70-784bce968f0d" />
 
