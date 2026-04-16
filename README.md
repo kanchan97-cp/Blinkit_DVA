@@ -75,7 +75,7 @@ Scale vs. Spend: Despite high spend on the App channel, conversion data suggests
 
 <img width="1512" height="982" alt="Delivery and Fulfillment LogisticsLast-Mile " src="https://github.com/user-attachments/assets/e3bc759f-17a8-4514-aeae-c75cf5c02975" />
 
-# Last-Mile Delivery & Fulfillment
+# Last-Minute Delivery & Fulfillment
 
 Speed Benchmarks: Achieved an impressive average delivery time of 6.32 minutes for an average distance of 2.72km.
 
