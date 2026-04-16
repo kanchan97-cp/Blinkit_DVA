@@ -18,9 +18,13 @@ CSV dataset
 # Repository Structure
 
 Blinkit_DVA/
+
 Raw Dataset – #Original dataset before cleaning
+
 Cleaned Dataset – #Processed dataset used for dashboard
+
 Blinkit_Dashboard – #Dashboard screenshots
+
 README.md
 
 # Data Cleaning Process (Google Sheets)
