@@ -39,6 +39,9 @@ Creating calculated fields
 # Dashboard Overview (Looker Studio)
 
 Below are example sections of the dashboard.
+
+<img width="1376" height="768" alt="Gemini_Generated_Image_247b5u247b5u247b" src="https://github.com/user-attachments/assets/95b35bd7-c1a7-4fcf-a795-8065e3adbed5" />
+
 <img width="1512" height="982" alt="Brand Performance and Profitability " src="https://github.com/user-attachments/assets/18fb6202-d546-45fb-be70-784bce968f0d" />
 
 # Brand Performance & Profitability
